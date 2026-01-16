@@ -7,12 +7,12 @@ quantitative finance, econometrics, and machine learning.
 ### 1. Economic Policy Uncertainty and Industry Portfolio Volatility
 - Methods: GARCH, macro–finance econometrics, volatility forecasting
 - Tools: R
-- [[Paper (PDF)](./economic-policy-uncertainty-volatility/paper.pdf)](https://github.com/cunnir19/Selected-Quant-Research/blob/a0b3efb976ecc4156dbb4ce0d3f9d8e3b97f6b32/paper.pdf)
+- [[Paper (PDF)](./economic-policy-uncertainty-volatility/paper.pdf)]
 
 ### 2. Fragility of Short Volatility Strategies
 - Methods: Black–Scholes, stochastic calculus, options Greeks, Monte Carlo simulation
 - Focus: Model risk, tail risk, convexity
--[ [Paper (PDF)](./options-strategy-fragility/paper.pdf)](https://github.com/cunnir19/Selected-Quant-Research/blob/22efdd1b84790341f5f3c74367b140dec151e42a/paper.pdf)
+-[[ [Paper (PDF)](./options-strategy-fragility/paper.pdf)]
 
 ### 3. LLM-Based Text Signals in Equity Return Prediction
 - Data: SEC 10-K, 10-Q, and 8-K filings for S&P 500 firms; firm-specific financial news headlines
@@ -21,4 +21,4 @@ quantitative finance, econometrics, and machine learning.
 - Benchmark: Fama–French Five-Factor (FF5) model
 - Key Findings: Filing-based LLM signals generate statistically meaningful returns largely orthogonal to traditional factor exposures, while news-based signals exhibit strong but short-lived predictability and out-of-sample fragility
 - Contribution: Demonstrates that unstructured text provides incremental information when integrated with, rather than replacing, traditional quantitative asset pricing models
-- [[Paper (PDF)](./large-language-model-sec-filings/paper.pdf)](https://github.com/cunnir19/Selected-Quant-Research/blob/105dc371914f0a7530005f80df73df2bc51addd9/paper.pdf)
+- [[Paper (PDF)](./large-language-model-sec-filings/paper.pdf)]
