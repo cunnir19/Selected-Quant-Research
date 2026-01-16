@@ -1,0 +1,5 @@
+## Abstract
+
+This study investigates whether large language models (LLMs) can extract economically meaningful signals from unstructured financial text and how such signals can be integrated with traditional asset pricing frameworks to predict equity returns across multiple horizons. Two complementary information sources are examined: corporate regulatory disclosures and firm-specific financial news.
+
+For regulatory filings, SEC 10-K, 10-Q, and 8-K documents for S&P 500 firms are processed using an LLM to generate structured linguistic features capturing sentiment, tone, and perceived risk. These features are incorporated into supervised machine-learning models to predict forward returns and to construct event-driven lon
