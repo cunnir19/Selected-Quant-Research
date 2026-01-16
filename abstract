@@ -1,0 +1,7 @@
+## Abstract
+
+This paper investigates the structural fragility of short volatility strategies through the lens of option pricing theory and stochastic modeling. Using the Black–Scholes framework, the study analyzes the payoff dynamics of short straddle positions and decomposes risk exposures using options Greeks, with particular emphasis on gamma convexity and volatility sensitivity.
+
+Monte Carlo simulations are employed to evaluate strategy performance under varying volatility regimes and large underlying price movements. The results highlight how small misestimations of volatility and rare but extreme price shocks can lead to highly asymmetric downside risk and catastrophic losses.
+
+The analysis demonstrates that short volatility strategies are inherently vulnerable to regime shifts and tail events, illustrating the role of model risk and nonlinear payoffs in historical trading failures such as the Nick Leeson case. The findings emphasize the importance of convexity awareness and stress testing in options-based trading strategies.
