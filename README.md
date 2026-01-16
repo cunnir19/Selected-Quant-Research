@@ -22,4 +22,4 @@ quantitative finance, econometrics, and machine learning.
 - Benchmark: Fama–French Five-Factor (FF5) model
 - Key Findings: Filing-based LLM signals generate statistically meaningful returns largely orthogonal to traditional factor exposures, while news-based signals exhibit strong but short-lived predictability and out-of-sample fragility
 - Contribution: Demonstrates that unstructured text provides incremental information when integrated with, rather than replacing, traditional quantitative asset pricing models
-- [Paper (PDF)]([./large-language-model-sec-filings/paper.pdf](https://github.com/cunnir19/Selected-Quant-Research/blob/7748399907aa8bd2d4547ecb0b728d990f627685/paper.pdf))
+- [Paper (PDF)](https://github.com/cunnir19/Selected-Quant-Research/blob/7748399907aa8bd2d4547ecb0b728d990f627685/paper.pdf)
