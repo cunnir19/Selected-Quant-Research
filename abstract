@@ -1,0 +1,7 @@
+## Abstract
+
+This study examines whether U.S. economic policy uncertainty (EPU) contains predictive information for equity volatility at the industry level. Using monthly returns for 13 industry stock portfolios, the analysis employs GARCH-based volatility models to capture time-varying conditional heteroskedasticity while controlling for industry-specific risk characteristics.
+
+The results indicate that economic policy uncertainty is a statistically significant predictor of future volatility across multiple industries, even after accounting for standard risk controls. The findings suggest that macroeconomic uncertainty propagates into financial markets through volatility channels rather than expected returns alone.
+
+These results contribute to the macro–finance literature by demonstrating that policy-related uncertainty provides incremental information for volatility forecasting and risk management beyond traditional asset pricing factors.
